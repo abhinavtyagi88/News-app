@@ -1,5 +1,6 @@
-const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
-const url = "https://newsapi.org/v2/everything?q=";
+const API_KEY = "0eb654cb92c74161afbc78b32e131981";
+const url = "https://newsapi.org/v2/everything?q=tesla&from=2023-11-01&sortBy=publishedAt&apiKey=${`API_KEY`}";
+
 
 window.addEventListener("load", () => fetchNews("India"));
 
