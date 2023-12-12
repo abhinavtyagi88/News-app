@@ -1,0 +1,11 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "Your daily news dose and my first api based project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
